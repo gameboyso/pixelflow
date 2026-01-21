@@ -24,7 +24,7 @@ Go to:
 "We believe that by sharing knowledge and experience, we can help more players enjoy the fun that Pixel Flow brings."
 
 # Walkthrough
-[Pixel Flow Level 279 Walkthrough & Strategy Guide](https://pixelflowlevel.online/blog/pixel-flow-evel-279-walkthrough-strategy-guide)
+[Pixel Flow Level 279](https://pixelflowlevel.online/blog/pixel-flow-evel-279-walkthrough-strategy-guide)
 [Complete Walkthrough: Pixel Flow Level 139](https://pixelflowlevel.online/blog/pixel-flow-level-139-walkthrough)
 
 
